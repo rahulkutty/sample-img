@@ -1,0 +1,12 @@
+img{
+    border-radius: 10px;
+    
+}
+h1::first-line{
+    color: aqua;
+    background-color: blueviolet;
+}
+h1:hover{
+    background-color: chartreuse;
+    
+}
